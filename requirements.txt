@@ -1,0 +1,13 @@
+# mediapipe is pinned to 0.10.33 on purpose: Windows Smart App Control on this
+# laptop blocks the libmediapipe.dll in 0.10.30, 1.0.0 and 1.1.1, but allows 0.10.33.
+mediapipe==0.10.33
+opencv-python==5.0.0.93
+opencv-contrib-python==5.0.0.93
+numpy==2.5.4
+pycaw==20260927
+comtypes==1.4.17
+PyAutoGUI==0.9.54
+keyboard==0.13.5
+winotify==1.1.0
+pywin32==312
+pillow==13.0.0
