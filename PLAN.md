@@ -1,16 +1,5 @@
 # Project: Hand Gesture Laptop Controller (Windows)
 
-You are building this project with me step by step. Read this whole document first.
-
-## Working rules for you (Claude Code)
-1. First, save this entire document as PLAN.md in the project root. Re-read PLAN.md at the start of every future session.
-2. Build ONE step at a time from the "Build steps" section. After each step, tell me exactly how to run and test it, then STOP and wait for me to confirm it works before starting the next step.
-3. Never skip steps or combine steps without asking me.
-4. If anything in this spec is unclear or seems wrong, ask me before guessing.
-5. Keep every tunable number in config.py. No magic numbers anywhere else.
-6. Explain what each file does in simple language when you create it. I am a first-year CSE student and know Python.
-7. Add clear comments in the code, especially in the gesture detection logic.
-
 ## Environment
 - OS: Windows
 - Camera: built-in laptop webcam (camera index 0, 640x480)
